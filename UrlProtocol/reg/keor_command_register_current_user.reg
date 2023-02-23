@@ -1,0 +1,15 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Classes\keor]
+@="URL:keor Protocol"
+"URL Protocol"=""
+
+[HKEY_CURRENT_USER\Software\Classes\keor\DefaultIcon]
+@="\"D:\\Program Files\\keor\\keor.exe\""
+
+[HKEY_CURRENT_USER\Software\Classes\keor\shell]
+
+[HKEY_CURRENT_USER\Software\Classes\keor\shell\open]
+
+[HKEY_CURRENT_USER\Software\Classes\keor\shell\open\command]
+@="\"D:\\Program Files\\keor\\keor.exe\" \"%1\""
